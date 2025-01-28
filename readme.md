@@ -44,7 +44,7 @@ This screen also displays a histogram with the price distribution of accommodati
 
 * [Airbnb_Area_for_improvement_Customer_satisfaction.pbix](https://github.com/luherod/Exploracion_y_Visualizacion_de_datos/blob/main/Airbnb_Area_for_improvement_Customer_satisfaction.pbix): File containing the PBI dashboard.
 
-* [airbnb-listings%20Madrid.csv](https://github.com/luherod/Exploracion_y_Visualizacion_de_datos/blob/main/airbnb-listings%20Madrid.csv): CSV file with the dataset used for information extraction for the dashboard.
+* [airbnb-listings Madrid.csv](https://github.com/luherod/Exploracion_y_Visualizacion_de_datos/blob/main/airbnb-listings%20Madrid.csv): CSV file with the dataset used for information extraction for the dashboard.
 
 ## Author
 
